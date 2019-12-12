@@ -1,5 +1,5 @@
-# 趣乐武术
+# 直播吧-专访足球资讯
 
-Martial arts is a combination of physical strength, fitness, self-defense, and tempering will, and it is the best project to train children's external body and inner temperament. We are an app that provides martial arts learning online booking, users can choose the martial arts programs they want to learn through our platform. We offer three types of martial arts programs such as “跆拳道”, “武术 arts” and “散打”.
+We are a platform dedicated to the live broadcast of the latest football matches. Our platform data is authoritative and guaranteed to be the same as real matches. Friends who like to watch football matches can get the match records they want in real time on our platform. We mainly broadcast live text. Our platform also has a forum for each football match for the majority of users to discuss each other. For each football match in progress, a dedicated host describes the situation on the pitch in writing.
 
-If you have any questions, please contact the technical support email: LewisMacey5023@gmail.com, thank you for your support.
+If you have any questions, please contact the technical support email: kgvrcx@163.com, thank you for your support.
