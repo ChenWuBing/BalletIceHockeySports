@@ -1,5 +1,5 @@
 # 直播吧--天天足球赛事
 
-We are a platform dedicated to broadcasting the latest football matches. For each football match in progress, a dedicated host will describe the situation on the pitch in writing. Our platform data is authoritative and guaranteed to be the same as the actual situation. Friends who like to watch football matches can get their desired match records in real time on our platform.
+我們是各種足球比賽的文字廣播體育平台。 用戶可以在我們的平台上獲得足球比賽的最新消息，並且觀眾可以進行實時互動。 我們的平台認可所有數據的權威性和開放性。 對於每場進行的籃球比賽，都有專門的主持人以書面形式描述球場的情況。
 
-If you have any questions, please contact the technical support email: wlwdhhh@126.com, thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：wlwdhhh@126.com，謝謝您的支持。
