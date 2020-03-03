@@ -1,5 +1,5 @@
-# 捷报体育--花样足球赛讯
+# 捷报体育--足球赛事约场
 
-We are a text live sports platform for various football games. Users can get the latest news of football matches on our platform and the audience can interact in real time. Our platform recognizes the authority and openness of all data. For each football match, a dedicated host describes the situation in the stadium in writing.
+我們是致力於廣播最新足球比賽的平台。對於每場進行中的足球比賽，專門的主持人都會以書面形式描述球場上的情況。我們的平台數據是權威的，保證與實際情況相同。喜歡看足球比賽的朋友可以在我們的平台上實時獲得他們想要的比賽記錄。同時我們平台還提供各大足球賽事的場地預約，有足球團隊比賽需要場地的可以在我們平台上預定。
 
-If you have any questions, please contact technical support email: wlwdhhh@126.com, thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：wlwdhhh@126.com，感謝您的支持。
