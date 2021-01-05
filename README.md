@@ -1,5 +1,5 @@
-# Ballet Ice Hockey Sports
+# 球堔推荐--体育团购精选
 
-We are a sports-related commodity platform. Our platform has various practical commodities such as basketball, football, tennis, and badminton. Users can buy their favorite sporting goods on our platform. Welcome.
+我们是体育相关的商品平台。 我们的平台上有各种实用商品，例如篮球，足球，网球和羽毛球。 用户可以在我们的平台上购买自己喜欢的体育用品。欢迎选购。
 
-If you have any questions, please contact the technical support email: ngocanhxinh@hotmail.com, thank you for your support.
+如有任何疑问，请联系技术支持电子邮件：ngocanhxinh@hotmail.com，谢谢您的支持。
