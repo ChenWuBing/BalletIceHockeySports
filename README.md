@@ -1,5 +1,5 @@
-# 球堔推荐--体育团购精选
+# ShengHuo Bookkeeping
 
-我们是体育相关的商品平台。 我们的平台上有各种实用商品，例如篮球，足球，网球和羽毛球。 用户可以在我们的平台上购买自己喜欢的体育用品。欢迎选购。
+ShengHuo Bookkeeping is a simple and practical software for fast bookkeeping, which can complete bookkeeping in two steps. From life, professional accounting, everything starts from the user, and we realize the user's needs.
 
-如有任何疑问，请联系技术支持电子邮件：daidongzxc@icloud.com，谢谢您的支持。
+If you have any questions, please contact the technical support email: xinpengscgs@163.com, thank you for your support.
