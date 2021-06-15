@@ -1,5 +1,7 @@
-# XiangRong AccountBook
+# 智泵云
 
-XiangRong AccountBook is a simple and practical software for fast bookkeeping, which can complete bookkeeping in two steps. From life, professional accounting, everything starts from the user, and we realize the user's needs.
+我们是一个专门为智能水泵提供一个控制的APP。可以通过app控制水泵工作，同时也可以通过app查看水泵的当前所有运行状态。
 
-If you have any questions, please contact the technical support email: vuhoc0a1@gmail.com, thank you for your support.
+大大简化了用户使用水泵的操作流程。可以让用户更加随时随地的了解水泵的工作。
+
+如有任何问题，请联系技术支持邮箱：gzx0116@gmail.com，感谢您的支持。
